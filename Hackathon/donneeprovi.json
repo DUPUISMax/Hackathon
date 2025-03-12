@@ -1,0 +1,23 @@
+{
+    "Nombre_gens": {
+        "Badgeuse": 38,
+        "Capteur_Infra": 32
+    },
+    "Places_bus": 50,
+    "Difference_prix_carbonne_Voiture_Bus": {
+        "Consommation_du_bus": 4,
+        "Consommation_voiture": 10
+    },
+    "GPS": {
+        "Latitude": 43.575961,
+        "Longitude": 2.999452
+    },
+    "BUS_ID": {
+        "ID": 1,
+        "ligne": 1
+    },
+    "Horaire": {
+        "date": "2021-06-01",
+        "heure": "12:25"
+    }
+}
