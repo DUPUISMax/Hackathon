@@ -1,0 +1,19 @@
+{
+    "Nombre_gens": {
+        "Entree": 118,
+        "Sortie": 67
+    },
+    "Places_bus": 60,
+    "GPS": {
+        "Latitude": 43.76864,
+        "Longitude": 3.370949
+    },
+    "BUS_ID": {
+        "ID": 1,
+        "ligne": 1
+    },
+    "Horaire": {
+        "date": "2021-06-01",
+        "heure": "12:25"
+    }
+}

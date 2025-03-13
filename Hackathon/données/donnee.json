@@ -1,0 +1,116 @@
+[
+    {
+        "Nombre_gens": {
+            "Entree": 34,
+            "Sortie": 0
+        },
+        "Places_bus": 50,
+        "GPS": {
+            "Latitude": 43.345796,
+            "Longitude": 3.233936
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:00"
+        }
+    },
+    {
+        "Nombre_gens": {
+            "Entree": 45,
+            "Sortie": 2
+        },
+        "Places_bus": 60,
+        "GPS": {
+            "Latitude": 43.600915,
+            "Longitude": 2.704051
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:5"
+        }
+    },
+    {
+        "Nombre_gens": {
+            "Entree": 61,
+            "Sortie": 18
+        },
+        "Places_bus": 60,
+        "GPS": {
+            "Latitude": 43.642086,
+            "Longitude": 3.695668
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:10"
+        }
+    },
+    {
+        "Nombre_gens": {
+            "Entree": 71,
+            "Sortie": 60
+        },
+        "Places_bus": 60,
+        "GPS": {
+            "Latitude": 43.62879,
+            "Longitude": 3.437571
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:15"
+        }
+    },
+    {
+        "Nombre_gens": {
+            "Entree": 74,
+            "Sortie": 60
+        },
+        "Places_bus": 60,
+        "GPS": {
+            "Latitude": 43.271383,
+            "Longitude": 3.225138
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:20"
+        }
+    },
+    {
+        "Nombre_gens": {
+            "Entree": 118,
+            "Sortie": 67
+        },
+        "Places_bus": 60,
+        "GPS": {
+            "Latitude": 43.76864,
+            "Longitude": 3.370949
+        },
+        "BUS_ID": {
+            "ID": 1,
+            "ligne": 1
+        },
+        "Horaire": {
+            "date": "2021-06-01",
+            "heure": "12:25"
+        }
+    }
+]
