@@ -40,7 +40,11 @@ plt.tight_layout()
 
 # Ajout du curseur interactif
 cursor = mplcursors.cursor(plot, hover=True)
-cursor.connect("add", lambda sel: sel.annotation.set_text(f'Temps: {temps[sel.index]}\nNombre de personnes: {graph[sel.index]}/60'))
+cursor.connect("add", lambda sel: sel.annotation.set_text(
+    f'Temps: {temps[sel.index]}\nNombre de personnes: {graph[sel.index]}/60\n' +
+    ('Enlever un bus' if graph[sel.index] <= 10 else 'Ajouter un bus' if graph[sel.index] >= 50 else 'Très bien')
+))
+
 
 
 plt.show()
